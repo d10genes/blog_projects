@@ -1,0 +1,7 @@
+name: xmas_dow
+dependencies:
+- python=3.5
+- cython
+- pandas
+- seaborn
+- jupyter
